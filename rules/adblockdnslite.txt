@@ -3,8 +3,8 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250214084057
-! Last modified: 2025/02/14 08:40:57
+! Version: 20250214161222
+! Last modified: 2025/02/14 16:12:22
 ! Blocked domains: 6169
 ! unBlocked domains: 16
 !
@@ -169,7 +169,6 @@
 ||ssp.21ic.com^
 ||tj.21ic.com^
 ||222aa333bb.com^
-||228tuchuang.com^
 ||2345.cn^
 ||bd-js1.2345.com^
 ||bdcode.2345.com^
@@ -394,6 +393,7 @@
 ||t1.612.com^
 ||m5.66077.cn^
 ||6669667.com^
+||1.66law.cn^
 ||6711.com^
 ||6789.net^
 ||67it.com^
@@ -619,6 +619,7 @@
 ||activity.alibaba.com^
 ||ads.alibaba.com^
 ||click.alibaba.com^
+||fourier.alibaba.com^
 ||hydra.alibaba.com^
 ||img.alibaba.com^
 ||marketing.alibaba.com^
@@ -780,6 +781,7 @@
 ||adx.appsdk.com.cn^
 ||appsdt.com^
 ||appuu.cn^
+||static.appbox.apuslauncher.com^
 ||www.aqianniao.com^
 ||vinted-pl-gj32d.aqiwen.top^
 ||aqvi.cn^
@@ -1012,6 +1014,7 @@
 ||q.baminw.com.cn^
 ||active.baofeng.com^
 ||midinfo.baofeng.com^
+||a.baomihua.com^
 ||djs.baomihua.com^
 ||resource.baomihua.com^
 ||bartender.cc^
@@ -1024,7 +1027,6 @@
 ||blink-upload.bayescom.com^
 ||jupiter.bayescom.com^
 ||raddus.bayescom.com^
-||bayimob.com^
 ||bbbazlp.cn^
 ||du1.bbdj.com^
 ||event.bblmw.com^
@@ -1216,7 +1218,6 @@
 ||creative.bxsnews.com^
 ||bxwccii.cn^
 ||correosytelegrafos.bxze.cn^
-||monitor-frontend-collector.a.bybit-aws.com^
 ||bydcxdy.cn^
 ||byscy.cn^
 ||log-api.pangolin-sdk-toutiao-b.com.gtm.byte008.com^
@@ -1244,7 +1245,6 @@
 ||b1.c1km4.com^
 ||dispatcher.c360dn.com^
 ||dispatcher-bsy.c360dn.com^
-||download.caihong.com^
 ||apollo.caixin.com^
 ||gg.caixin.com^
 ||pinggai5.caixin.com^
@@ -1547,6 +1547,7 @@
 ||dashet.com^
 ||datacaciques.com^
 ||datamaster.com.cn^
+||matomo.datasanalytics.com^
 ||datayi.cn^
 ||jc1.dayfund.com.cn^
 ||bun1.dayi.org.cn^
@@ -1567,6 +1568,7 @@
 ||events-drcn.op.dbankcloud.cn^
 ||grs.dbankcloud.cn^
 ||httpdns-browser.platform.dbankcloud.cn^
+||httpdns.platform.dbankcloud.cn^
 ||hwpub-s01-drcn.cloud.dbankcloud.cn^
 ||logservice.dbankcloud.cn^
 ||logservice-dra.platform.dbankcloud.cn^
@@ -1653,7 +1655,6 @@
 ||downloada.dewmobile.net^
 ||dexinyi.cn^
 ||dfhag.cn^
-||dfkd.xyz^
 ||newswifiapi.dfshurufa.com^
 ||dg186.cn^
 ||dgbaozhuang.cn^
@@ -1667,8 +1668,8 @@
 ||resolver.dingtalk.com^
 ||matomo.diningcity.asia^
 ||linktrace.diningcity.cn^
+||stdown.dinju.com^
 ||dipan.com^
-||www.discord-mj.cn^
 ||code.ditiezu.net^
 ||olx-pol-kxlsw2.diyang.top^
 ||vinted-pl-gj32d.diyang.top^
@@ -2037,7 +2038,6 @@
 ||usps.gdtcw.cn^
 ||gdtimg.com^
 ||canadapost-postescanada.gdwsw.cn^
-||t.geedai.com^
 ||log.geetest.com^
 ||g.gegeyingshi.com^
 ||genrena.com^
@@ -2129,8 +2129,8 @@
 ||adsense.google.cn^
 ||adservice.google.com^
 ||pagead-googlehosted.l.google.com^
-||s0-2mdn-net.l.google.com^
 ||ssl-google-analytics.l.google.com^
+||static-doubleclick-net.l.google.com^
 ||www-google-analytics.l.google.com^
 ||www-googletagmanager.l.google.com^
 ||accounts.google.sn.cn^
@@ -2469,6 +2469,7 @@
 ||hwa.his.huawei.com^
 ||httpdns.huaweicloud.com^
 ||matomo.huazhi.cloud^
+||matomocdn.huazhi.cloud^
 ||hubcloud.com.cn^
 ||hubiazhi.com^
 ||hufajushi.top^
@@ -2567,6 +2568,7 @@
 ||log.ihuman.com^
 ||logapi.ihuman.com^
 ||region.ihuman.com^
+||ad.iii.co.uk^
 ||iimedia.cn^
 ||www.iiyout.cn^
 ||ijinshan.com^
@@ -2768,7 +2770,6 @@
 ||jhzfwl.cn^
 ||api.jialiangad.com^
 ||8961.jianbihua.com^
-||wj.jiancai365.cn^
 ||ads.jianchiapp.com^
 ||xomk.jiangjunmh.top^
 ||1.jiangzheba.com^
@@ -2902,7 +2903,6 @@
 ||kkkaii.cn^
 ||houyi.kkmh.com^
 ||ipv4.kkmh.com^
-||affiliate.klook.com^
 ||kmgfjc.cn^
 ||ykkvnoxal.kmhul.cn^
 ||kmihknj.cn^
@@ -3025,6 +3025,7 @@
 ||dw-collect.ksosoft.com^
 ||dw-online.ksosoft.com^
 ||ic.ksosoft.com^
+||xldqxwdmew.ksoyw.cn^
 ||api.kingdata.ksyun.com^
 ||hdns.ksyun.com^
 ||kszvmqo.cn^
@@ -3608,7 +3609,6 @@
 ||saadsfds7.myshoplaza.com^
 ||salewashop-pl.myshoplaza.com^
 ||salewashopiing.myshoplaza.com^
-||salewashopping.myshoplaza.com^
 ||analytics.myshoptago.com^
 ||gafxa.code.mytanwan.com^
 ||ldpgl.code.mytanwan.com^
@@ -3800,7 +3800,6 @@
 ||pdweoyw.cn^
 ||eloqua.pearsonvue.com.cn^
 ||peiyou.com^
-||pengauto.cn^
 ||adver.pengyou.com^
 ||penxiangge.com^
 ||counter.people.cn^
@@ -3890,6 +3889,7 @@
 ||analytics.pushgrid.net^
 ||ums.pushpia.cn^
 ||ssp.putaojiu.com^
+||apple.pvxt.net^
 ||dm.pw0.cn^
 ||pxhuiben.com^
 ||cdn.pyadx.com^
@@ -4306,6 +4306,7 @@
 ||rz261.cn^
 ||rzfdbsn.cn^
 ||rzflhxn.cn^
+||rzlib.net^
 ||rznscya.cn^
 ||rzsgxmm.cn^
 ||s11.cn^
@@ -4661,6 +4662,7 @@
 ||api.taboola.sve.cc^
 ||svhdbmp.cn^
 ||fr.swissquote.cn^
+||cgrvtlhz.swkxh.cn^
 ||opohpmcdz.swkxh.cn^
 ||cdn0.sxhjty.cn^
 ||sxk9m8x.cn^
@@ -5416,11 +5418,9 @@
 ||wkanx.com^
 ||lm1.wkpcw.cn^
 ||opensdk.wlanbanlv.com^
-||wlgxaij.cn^
 ||wlhcb.cn^
 ||wm23.com^
 ||wmmax.com^
-||bdasd.wmxa.cn^
 ||wn68din.cn^
 ||www.wndlkj.com^
 ||wo1818.cn^
@@ -5998,7 +5998,6 @@
 ||api-analytics-de.zepp.com^
 ||api-analytics-us.zepp.com^
 ||api-analytics-us3.zepp.com^
-||app-analytics.zepp.com^
 ||app-analytics-de.zepp.com^
 ||app-analytics-ru.zepp.com^
 ||app-analytics-sg.zepp.com^
@@ -6164,6 +6163,7 @@
 ||zwjaoni.cn^
 ||zwlikv.cn^
 ||zwmkfoo.cn^
+||5mm.zxfw5.cn^
 ||yty.zxkzy.cn^
 ||zxptw.cn^
 ||zxqiwe.cn^

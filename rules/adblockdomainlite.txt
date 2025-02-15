@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250215084040
-! Last modified: 2025/02/15 08:40:40
-! Blocked domains: 6156
+! Version: 20250215161057
+! Last modified: 2025/02/15 16:10:57
+! Blocked domains: 6150
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -776,7 +776,6 @@ st.appsad.cn
 adx.appsdk.com.cn
 appsdt.com
 appuu.cn
-static.appbox.apuslauncher.com
 www.aqianniao.com
 vinted-pl-gj32d.aqiwen.top
 aqvi.cn
@@ -1204,7 +1203,6 @@ bswsmlp.cn
 s.btime.com
 btsgroup.cn
 btyou.com
-beijing.buzhi5.com
 bvubasnf.com
 ad.bwton.com
 dlogs.bwton.com
@@ -1239,7 +1237,6 @@ s.c-ctrip.com
 b1.c1km4.com
 dispatcher.c360dn.com
 dispatcher-bsy.c360dn.com
-apollo.caixin.com
 gg.caixin.com
 pinggai5.caixin.com
 promote.caixin.com
@@ -1447,6 +1444,8 @@ moa-upload-online-in.coloros.com
 smartcard.apps.coloros.com
 smartcardf-eu.apps.coloros.com
 smartcardf.apps.coloros.com
+iadcontent-lb.apple.com.akadns.net
+iadsdk.apple.com.akadns.net
 commander1.com
 marketing.container-xchange.cn
 cu-cn-north00001.gala.convection.cn
@@ -1466,7 +1465,6 @@ n.cosbot.cn
 counsellor.gov.cn
 course-forge.com
 adt.cpatrk.net
-ap.cpatrk.net
 me.cpatrk.net
 tdsdk.cpatrk.net
 agapi.cqjjb.cn
@@ -1525,7 +1523,6 @@ dadbj.cn
 dadde.cn
 daddq.cn
 js1.dadiniu.cn
-dadzz.cn
 daede.cn
 dafdf.cn
 dakawm.cc
@@ -1585,6 +1582,7 @@ adx-drru.op.dbankcloud.com
 events-dra.op.dbankcloud.com
 events-drcn.op.dbankcloud.com
 events-dre.op.dbankcloud.com
+events-drru.op.dbankcloud.com
 grs.dbankcloud.com
 httpdns.platform.dbankcloud.com
 logservice-dra.platform.dbankcloud.com
@@ -1648,6 +1646,7 @@ api.dewmobile.net
 downloada.dewmobile.net
 dexinyi.cn
 dfhag.cn
+dfkd.xyz
 newswifiapi.dfshurufa.com
 dg186.cn
 dgbaozhuang.cn
@@ -1681,7 +1680,6 @@ dnyzbp.cn
 do-global.com
 info.meihua.docer.com
 zx.docin.com
-eee.dodecahedron.cn
 doglobal.net
 ads.doit.com.cn
 domob.cn
@@ -1788,7 +1786,6 @@ u.dxsvr.com
 adsdkapi.dxys.pro
 fumiad.dxys.pro
 a.dxzy163.com
-dycwt.cn
 a.dyjqd.com
 by.dyq.cn
 hl.dyq.cn
@@ -2118,7 +2115,6 @@ adsense.google.cn
 adservice.google.com
 pagead-googlehosted.l.google.com
 ssl-google-analytics.l.google.com
-static-doubleclick-net.l.google.com
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 accounts.google.sn.cn
@@ -2184,6 +2180,7 @@ mo.gushiji.cc
 abcdcfasda.gushiwen.cn
 enennsa.gushiwen.cn
 ggw.gusuwang.com
+m.gutousoft.com
 a.guzhilin.com
 guzsjdl.cn
 gvt2-cn.com
@@ -2457,7 +2454,6 @@ drcn-weather.cloud.huawei.com
 hwa.his.huawei.com
 httpdns.huaweicloud.com
 matomo.huazhi.cloud
-matomocdn.huazhi.cloud
 hubcloud.com.cn
 hubiazhi.com
 hufajushi.top
@@ -2560,6 +2556,7 @@ ad.iii.co.uk
 iimedia.cn
 www.iiyout.cn
 ijinshan.com
+daima.ijq.tv
 ijvla.cn
 ili100.cn
 ilkwork.com
@@ -2603,6 +2600,7 @@ innity.net
 gw.innotechx.com
 inping.com
 click.inplayable.com
+ixvdfqi.inqku.cn
 inquire-jq.top
 insenz.com
 ainu.intel.cn
@@ -2795,7 +2793,6 @@ jj123.com.cn
 img.jjiv.top
 jjjcyjj.cn
 jjyx.com
-jknrwe.cn
 jlifm.org.cn
 jmgehn.cn
 www.jmine.cn
@@ -2891,6 +2888,7 @@ adl.kkguan.com
 kkkaii.cn
 houyi.kkmh.com
 ipv4.kkmh.com
+affiliate.klook.com
 kmgfjc.cn
 ykkvnoxal.kmhul.cn
 kmihknj.cn
@@ -3594,9 +3592,6 @@ projecta-common-1258344701.file.myqcloud.com
 redpaper-10006092.cos.myqcloud.com
 sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com
 analytics.api.myqnapcloud.cn
-saadsfds7.myshoplaza.com
-salewashop-pl.myshoplaza.com
-salewashopiing.myshoplaza.com
 analytics.myshoptago.com
 gafxa.code.mytanwan.com
 ldpgl.code.mytanwan.com
@@ -3934,7 +3929,6 @@ list.z.qingting.fm
 logger.qingting.fm
 kf.qingwk.com
 7xkfic.com2.z0.glb.qiniucdn.com
-down.qiqi.cc
 analytics.qiqiuyun.net
 stats.qiumibao.com
 webstat.qiumibao.com
@@ -5389,6 +5383,7 @@ wfqgfaa.cn
 wftyehw.cn
 redir.wggames.cn
 www.whalecloud.com
+whatsappws.cc
 whytd.com
 a.wifi33.com
 wilf.cn
@@ -5902,7 +5897,6 @@ agkffaem.yoxnx.cn
 dehsbdvz.yoxnx.cn
 gehhfzjj.yoxnx.cn
 gqwwa.yoxnx.cn
-grmztpmnmx.yoxnx.cn
 izoghj.yoxnx.cn
 lsaseu.yoxnx.cn
 mqyly.yoxnx.cn

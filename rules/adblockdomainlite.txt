@@ -3,9 +3,9 @@
 ! Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-! Version: 20250216084450
-! Last modified: 2025/02/16 08:44:50
-! Blocked domains: 6150
+! Version: 20250216161051
+! Last modified: 2025/02/16 16:10:51
+! Blocked domains: 6148
 !
 kwcdn.000dn.com
 kwcscdn.000dn.com
@@ -166,6 +166,7 @@ o-lx.20021220.xyz
 ssp.21ic.com
 tj.21ic.com
 222aa333bb.com
+228tuchuang.com
 2345.cn
 bd-js1.2345.com
 bdcode.2345.com
@@ -256,7 +257,6 @@ mclean.cloud.360safe.com
 mclean.lato.cloud.360safe.com
 mclean.uk.cloud.360safe.com
 mvconf.cloud.360safe.com
-mvconf.lato.cloud.360safe.com
 mvconf.uk.cloud.360safe.com
 stat.360safe.com
 update.360safe.com
@@ -292,10 +292,8 @@ goupdate.3g.cn
 acc.3gbizhi.com
 uu1.3gu.com
 engage.3m.com.cn
-3prndxd.cn
 3q1lsj.cn
 3q3l.cn
-3rsppty.cn
 img.3sjt.com
 ios-pclog.3u.com
 4009997658.com
@@ -339,7 +337,6 @@ api.52youtu.com
 52z.com
 a.52zxw.com
 53kf.com
-54.222.186.106
 54kefu.net
 55.la
 union.55haitao.com
@@ -540,6 +537,7 @@ track.adxwork.com
 adyun.com
 adzp.cn
 aeaw.cn
+afcav.com
 analytics.afirstsoft.cn
 app.aflink.com
 afoqs.cn
@@ -1237,6 +1235,8 @@ s.c-ctrip.com
 b1.c1km4.com
 dispatcher.c360dn.com
 dispatcher-bsy.c360dn.com
+download.caihong.com
+apollo.caixin.com
 gg.caixin.com
 pinggai5.caixin.com
 promote.caixin.com
@@ -1444,8 +1444,6 @@ moa-upload-online-in.coloros.com
 smartcard.apps.coloros.com
 smartcardf-eu.apps.coloros.com
 smartcardf.apps.coloros.com
-iadcontent-lb.apple.com.akadns.net
-iadsdk.apple.com.akadns.net
 commander1.com
 marketing.container-xchange.cn
 cu-cn-north00001.gala.convection.cn
@@ -1465,6 +1463,7 @@ n.cosbot.cn
 counsellor.gov.cn
 course-forge.com
 adt.cpatrk.net
+ap.cpatrk.net
 me.cpatrk.net
 tdsdk.cpatrk.net
 agapi.cqjjb.cn
@@ -1646,7 +1645,6 @@ api.dewmobile.net
 downloada.dewmobile.net
 dexinyi.cn
 dfhag.cn
-dfkd.xyz
 newswifiapi.dfshurufa.com
 dg186.cn
 dgbaozhuang.cn
@@ -2189,7 +2187,6 @@ gwmrb.cn
 gwrpceo.cn
 gxgbvmg.cn
 gxhzv.cn
-n1709557724.gxpnmtg.cn
 ctkdouepns.gylmw.cn
 olosuxfp.gylmw.cn
 m.gz-bz.cn
@@ -2214,7 +2211,6 @@ tj.haiwainet.cn
 haixiutv.com
 halct.cn
 mo.haloapps.cn
-haloapps.com
 g.haluoha.com
 go.hangzhou.com.cn
 hanlanad.com
@@ -2232,7 +2228,6 @@ haowei.me
 happlyoe.cc
 hapying.com
 hashnest.com
-havn.com.vn
 a.hbf23.cn
 img1.hblds.com
 sensorsdata.hbooker.com
@@ -2454,6 +2449,7 @@ drcn-weather.cloud.huawei.com
 hwa.his.huawei.com
 httpdns.huaweicloud.com
 matomo.huazhi.cloud
+matomocdn.huazhi.cloud
 hubcloud.com.cn
 hubiazhi.com
 hufajushi.top
@@ -2556,7 +2552,6 @@ ad.iii.co.uk
 iimedia.cn
 www.iiyout.cn
 ijinshan.com
-daima.ijq.tv
 ijvla.cn
 ili100.cn
 ilkwork.com
@@ -2600,7 +2595,6 @@ innity.net
 gw.innotechx.com
 inping.com
 click.inplayable.com
-ixvdfqi.inqku.cn
 inquire-jq.top
 insenz.com
 ainu.intel.cn
@@ -2873,7 +2867,6 @@ kfqizu.cn
 pageview.kgsz.cn
 khzyojb.cn
 kingdeecn.cn
-abroad-ad.kingsoft-office-service.com
 cloudservice13.kingsoft-office-service.com
 cloudservice14.kingsoft-office-service.com
 cloudservice24.kingsoft-office-service.com
@@ -2888,7 +2881,6 @@ adl.kkguan.com
 kkkaii.cn
 houyi.kkmh.com
 ipv4.kkmh.com
-affiliate.klook.com
 kmgfjc.cn
 ykkvnoxal.kmhul.cn
 kmihknj.cn
@@ -3221,7 +3213,6 @@ litchiads.com
 liujiahao6.cn
 v88.live800.com
 a.llysc.cn
-lm665.com
 bffbdo.lmsae.cn
 lmwmm.com
 lnk0.com
@@ -3592,6 +3583,7 @@ projecta-common-1258344701.file.myqcloud.com
 redpaper-10006092.cos.myqcloud.com
 sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com
 analytics.api.myqnapcloud.cn
+saadsfds7.myshoplaza.com
 analytics.myshoptago.com
 gafxa.code.mytanwan.com
 ldpgl.code.mytanwan.com
@@ -3639,7 +3631,6 @@ webd.home.news.cn
 al.newxue.com
 ngnxyub.cn
 ggdm1.nhaidu.net
-nhjsw.cn
 analytics.nike.com.cn
 down.nishuoa.com
 nithisp.cn
@@ -4828,6 +4819,7 @@ tracking.tdk.com.cn
 metrics.teamviewer.cn
 1.tecbbs.com
 tongji.techweb.com.cn
+paypay-ne.teehouse.cn
 inpost-pl-pacid273jks.tejiamai.top
 teleagrme.cn
 telegrpzn.cn
@@ -4947,6 +4939,7 @@ tradplusad.com
 cnzz.trafficmanager.net
 analysis.tratao.com
 ta.trs.cn
+trunkfish.cn
 trustutn.org
 analytics.trustyou.com
 ts166.net
@@ -5176,6 +5169,7 @@ stnetsdk.vivo.com.cn
 stnetsdk.appstore.vivo.com.cn
 stsdk.vivo.com.cn
 vcardsdkservice.vivo.com.cn
+asia-ad-mkt-vivofs.vivoglobal.com
 asia-adlog.vivoglobal.com
 asia-adsjssdk.vivoglobal.com
 asia-analyzer-appstore.vivoglobal.com
@@ -5194,6 +5188,7 @@ asia-pnrt-stsdk.vivoglobal.com
 asia-prt-stsdk.vivoglobal.com
 asia-st-sl.vivoglobal.com
 asia-stsdk.vivoglobal.com
+asia-vcode-od.vivoglobal.com
 asia-vcode-or.vivoglobal.com
 asia-vpushonrt-stsdk.vivoglobal.com
 asia-vpushort-stsdk.vivoglobal.com
@@ -5222,8 +5217,10 @@ in-ctdbprt-stsdk.vivoglobal.com
 in-errup.vivoglobal.com
 in-ex-adlog.vivoglobal.com
 in-monitor-stsdk.vivoglobal.com
+in-news-abroad-backstage-interface.vivoglobal.com
 in-onrt-stsdk.vivoglobal.com
 in-ort-stsdk.vivoglobal.com
+in-os-config-appstore.vivoglobal.com
 in-pnrt-stsdk.vivoglobal.com
 in-vpushonrt-stsdk.vivoglobal.com
 in-vpushort-stsdk.vivoglobal.com
@@ -5270,6 +5267,7 @@ vjvj.vj24co.com
 vkguvyg.cn
 vlgkotr.cn
 vlion.cn
+vlwaupf.cn
 vmbzhfh.cn
 service.vmos.cn
 m1.vodjk.com
@@ -5896,7 +5894,6 @@ acqlhb.yoxnx.cn
 agkffaem.yoxnx.cn
 dehsbdvz.yoxnx.cn
 gehhfzjj.yoxnx.cn
-gqwwa.yoxnx.cn
 izoghj.yoxnx.cn
 lsaseu.yoxnx.cn
 mqyly.yoxnx.cn
@@ -5914,6 +5911,7 @@ www.ysbaojia.com
 yssryr.cn
 iuou.ysw365.com
 www.yuanchengxiezuo.com
+yuanpinghengkangfuyouxiangongsi.top
 overseauspider.yuanshen.com
 ads.reader.yueyouxs.com
 report.yumobi.cn

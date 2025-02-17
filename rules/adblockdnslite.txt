@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、xinggsf rule、jiekouAD、1Hosts (Lite)、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、SmartTV Blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20250217084326
-! Last modified: 2025/02/17 08:43:26
-! Blocked domains: 6148
+! Version: 20250217161328
+! Last modified: 2025/02/17 16:13:28
+! Blocked domains: 6155
 ! unBlocked domains: 16
 !
 ||kwcdn.000dn.com^
@@ -167,7 +167,6 @@
 ||ssp.21ic.com^
 ||tj.21ic.com^
 ||222aa333bb.com^
-||228tuchuang.com^
 ||2345.cn^
 ||bd-js1.2345.com^
 ||bdcode.2345.com^
@@ -1209,6 +1208,7 @@
 ||creative.bxsnews.com^
 ||bxwccii.cn^
 ||correosytelegrafos.bxze.cn^
+||monitor-frontend-collector.a.bybit-aws.com^
 ||bydcxdy.cn^
 ||byscy.cn^
 ||log-api.pangolin-sdk-toutiao-b.com.gtm.byte008.com^
@@ -1237,7 +1237,6 @@
 ||dispatcher.c360dn.com^
 ||dispatcher-bsy.c360dn.com^
 ||download.caihong.com^
-||apollo.caixin.com^
 ||gg.caixin.com^
 ||pinggai5.caixin.com^
 ||promote.caixin.com^
@@ -1523,6 +1522,7 @@
 ||dadde.cn^
 ||daddq.cn^
 ||js1.dadiniu.cn^
+||dadzz.cn^
 ||daede.cn^
 ||dafdf.cn^
 ||dakawm.cc^
@@ -1646,6 +1646,7 @@
 ||downloada.dewmobile.net^
 ||dexinyi.cn^
 ||dfhag.cn^
+||dfkd.xyz^
 ||newswifiapi.dfshurufa.com^
 ||dg186.cn^
 ||dgbaozhuang.cn^
@@ -1998,6 +1999,7 @@
 ||fyzdev.com^
 ||fzgetdy.cn^
 ||xyoss.g.com.cn^
+||g1bngvefe.top^
 ||r01.g1c5.com^
 ||galeden.cn^
 ||tg.game2.cn^
@@ -2229,6 +2231,7 @@
 ||happlyoe.cc^
 ||hapying.com^
 ||hashnest.com^
+||havn.com.vn^
 ||a.hbf23.cn^
 ||img1.hblds.com^
 ||sensorsdata.hbooker.com^
@@ -2368,6 +2371,7 @@
 ||gentian-frd.hjapi.com^
 ||resu8.hjfile.cn^
 ||hjpqt.cn^
+||metrics.hktdc.com^
 ||www.smbc-card.ceter.hlktnk.cn^
 ||wwwv.smbc-card.vend.hlktrx.cn^
 ||adminuser.hlntqr.cn^
@@ -2463,6 +2467,7 @@
 ||hulichuang.mobi^
 ||log.hunantv.com^
 ||log.v2.hunantv.com^
+||huoche.com.cn^
 ||huoying666.com^
 ||adx.hupu.com^
 ||goblin.hupu.com^
@@ -2751,6 +2756,7 @@
 ||jhzfwl.cn^
 ||api.jialiangad.com^
 ||8961.jianbihua.com^
+||wj.jiancai365.cn^
 ||ads.jianchiapp.com^
 ||xomk.jiangjunmh.top^
 ||1.jiangzheba.com^
@@ -2788,6 +2794,7 @@
 ||img.jjiv.top^
 ||jjjcyjj.cn^
 ||jjyx.com^
+||jknrwe.cn^
 ||jlifm.org.cn^
 ||jmgehn.cn^
 ||www.jmine.cn^
@@ -2868,6 +2875,7 @@
 ||pageview.kgsz.cn^
 ||khzyojb.cn^
 ||kingdeecn.cn^
+||abroad-ad.kingsoft-office-service.com^
 ||cloudservice13.kingsoft-office-service.com^
 ||cloudservice14.kingsoft-office-service.com^
 ||cloudservice24.kingsoft-office-service.com^
@@ -2882,6 +2890,7 @@
 ||kkkaii.cn^
 ||houyi.kkmh.com^
 ||ipv4.kkmh.com^
+||affiliate.klook.com^
 ||kmgfjc.cn^
 ||ykkvnoxal.kmhul.cn^
 ||kmihknj.cn^
@@ -3213,6 +3222,7 @@
 ||litchiads.com^
 ||liujiahao6.cn^
 ||v88.live800.com^
+||aeon.co.jp.ultimac.lkvya.cn^
 ||a.llysc.cn^
 ||bffbdo.lmsae.cn^
 ||lmwmm.com^
@@ -3347,7 +3357,6 @@
 ||tracking.t.mercedes-benz.com.cn^
 ||mercor.cn^
 ||a.mfcad.net^
-||1.mgff.com^
 ||mgivkqk.cn^
 ||mgs123.com^
 ||odml.ad.intl.xiaomi.com.mgslb.com^
@@ -3584,7 +3593,6 @@
 ||redpaper-10006092.cos.myqcloud.com^
 ||sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com^
 ||analytics.api.myqnapcloud.cn^
-||saadsfds7.myshoplaza.com^
 ||analytics.myshoptago.com^
 ||gafxa.code.mytanwan.com^
 ||ldpgl.code.mytanwan.com^
@@ -3594,6 +3602,7 @@
 ||ggs.myzaker.com^
 ||gstat.myzaker.com^
 ||aries.mzres.com^
+||na06.cn^
 ||yiyuan.nagezan.net^
 ||ytapi1.nagezan.net^
 ||m.nanyangqiaoxiang.cn^
@@ -3875,6 +3884,8 @@
 ||www.q4ee.top^
 ||q8q.icu^
 ||qbdgame.com^
+||139520.aioc.qbgxl.com^
+||912648.aioc.qbgxl.com^
 ||uplog.qbox.me^
 ||qchannel04.cn^
 ||qcjslm.com^
@@ -4280,7 +4291,6 @@
 ||rz261.cn^
 ||rzfdbsn.cn^
 ||rzflhxn.cn^
-||rzlib.net^
 ||rznscya.cn^
 ||rzsgxmm.cn^
 ||s11.cn^
@@ -4312,6 +4322,7 @@
 ||active.sangfor.com^
 ||tech.sangfor.com^
 ||sanghuangvip.com^
+||ta.sanook.com^
 ||dm.sanwen.net^
 ||saxysec.com^
 ||sbird.xyz^
@@ -4587,6 +4598,7 @@
 ||y1.spreton.com^
 ||olx-pol-kxlsw2.spz24.top^
 ||sq59.cn^
+||srbzw.cn^
 ||srcaunu.cn^
 ||srldkqj.cn^
 ||show.ssports.com^
@@ -4820,7 +4832,6 @@
 ||metrics.teamviewer.cn^
 ||1.tecbbs.com^
 ||tongji.techweb.com.cn^
-||paypay-ne.teehouse.cn^
 ||inpost-pl-pacid273jks.tejiamai.top^
 ||teleagrme.cn^
 ||telegrpzn.cn^
@@ -5400,7 +5411,6 @@
 ||lm1.wkpcw.cn^
 ||opensdk.wlanbanlv.com^
 ||wlhcb.cn^
-||wm23.com^
 ||wmmax.com^
 ||wn68din.cn^
 ||www.wndlkj.com^
@@ -5721,7 +5731,6 @@
 ||stat.xywy.com^
 ||stat-y.xywy.com^
 ||stat-z.xywy.com^
-||xz0205.cn^
 ||vinted-pl-gj32d.xz5.xyz^
 ||cp.xz6.com^
 ||xz618.com^
@@ -5898,9 +5907,7 @@
 ||izoghj.yoxnx.cn^
 ||lsaseu.yoxnx.cn^
 ||mqyly.yoxnx.cn^
-||ostww.yoxnx.cn^
 ||ujhqmwfpw.yoxnx.cn^
-||wihcxtzwre.yoxnx.cn^
 ||yzfdf.yoxnx.cn^
 ||yoyi.tv^
 ||analysis.yozocloud.cn^
